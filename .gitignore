@@ -1,0 +1,11 @@
+# Copilot CLI config
+.claude/
+.mcp.json
+
+# Subpastas de projetos
+Projetos/
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
